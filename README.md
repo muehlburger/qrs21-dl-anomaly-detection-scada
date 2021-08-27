@@ -1,6 +1,6 @@
 # Code for our paper
 
-This repository contains the code for our paper called "On the Effects of Data Sampling for Deep Learningon Highly Imbalanced Data from SCADA PowerGrid Substation Networks for Intrusion Detection".
+This repository contains the code for our paper *"On the Effects of Data Sampling for Deep Learning on Highly Imbalanced Data from SCADA PowerGrid Substation Networks for Intrusion Detection"*.
 
 ## Installation
 
