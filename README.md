@@ -18,4 +18,4 @@ Our Jupyter notebook can be found under [classification-on-imbalanced-data.ipynb
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](LICENCE)
+[MIT](LICENSE)
