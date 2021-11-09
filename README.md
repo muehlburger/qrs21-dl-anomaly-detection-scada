@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/400414721.svg)](https://zenodo.org/badge/latestdoi/400414721)
+
 # Code for our paper
 
 This repository contains the code for our paper *"On the Effects of Data Sampling for Deep Learning on Highly Imbalanced Data from SCADA PowerGrid Substation Networks for Intrusion Detection"*.
