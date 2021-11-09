@@ -1,0 +1,27 @@
+{
+    "description": "This repository contains the code for our paper \"On the Effects of Data Sampling for Deep Learning on Highly Imbalanced Data from SCADA PowerGrid Substation Networks for Intrusion Detection\".", 
+    "license": "other-open", 
+    "title": "muehlburger/qrs21-dl-anomaly-detection-scada: Final code for QRS 2021", 
+    "version": "v1.0.0", 
+    "upload_type": "software", 
+    "publication_date": "2021-11-09", 
+    "creators": [
+        {
+            "affiliation": "Graz University of Technology - Institute for Software Technology", 
+            "name": "Franz Wotawa and Herbert M\u00fchlburger"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/muehlburger/qrs21-dl-anomaly-detection-scada/tree/v1.0.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.5656888", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
