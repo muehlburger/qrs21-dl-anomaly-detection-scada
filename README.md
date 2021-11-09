@@ -26,10 +26,10 @@ If you find this work useful, please cite our paper:
   booktitle={2021 IEEE 21th International Conference on Software Quality, Reliability and Security (QRS)},
   title={On the Effects of Data Sampling for Deep Learning on Highly Imbalanced Data from SCADA PowerGrid Substation Networks for Intrusion Detection},   
   year={2021},  
-  volume={},  
+  volume={preprint},  
   number={},  
-  pages={},  
-  doi={}
+  pages={preprint},  
+  doi={preprint}
 }
 ```
 
