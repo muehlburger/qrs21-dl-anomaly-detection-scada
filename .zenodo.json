@@ -10,18 +10,5 @@
             "affiliation": "Graz University of Technology - Institute for Software Technology", 
             "name": "Franz Wotawa and Herbert M\u00fchlburger"
         }
-    ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/muehlburger/qrs21-dl-anomaly-detection-scada/tree/v1.0.0", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.5656888", 
-            "relation": "isVersionOf"
-        }
     ]
 }
