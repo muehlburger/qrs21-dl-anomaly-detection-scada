@@ -2,7 +2,7 @@
 
 # Code for our paper
 
-This repository contains the code for our paper *"Wotawa, F., & Mühlburger, H. (2021). On the Effects of Data Sampling for Deep Learning on Highly Imbalanced Data from SCADA Power Grid Substation Networks for Intrusion Detection. 2021 IEEE 21st International Conference on Software Quality, Reliability and Security (QRS), 864-872."*.
+This repository contains the code for our paper *"Wotawa, F., & Mühlburger, H. (2021). [On the Effects of Data Sampling for Deep Learning on Highly Imbalanced Data from SCADA Power Grid Substation Networks for Intrusion Detection](https://ieeexplore.ieee.org/document/9724860). 2021 IEEE 21st International Conference on Software Quality, Reliability and Security (QRS), 864-872."*.
 
 ## Installation
 
